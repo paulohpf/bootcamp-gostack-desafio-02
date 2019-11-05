@@ -1,0 +1,34 @@
+{
+  "name": "bootcamp-gostack-desafio-02",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">\r   <img alt=\"Gympoint\" title=\"Gympoint\" src=\".github/logo.png\" width=\"200px\" />\r </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulohpf/bootcamp-gostack-desafio-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulohpf/bootcamp-gostack-desafio-02/issues"
+  },
+  "homepage": "https://github.com/paulohpf/bootcamp-gostack-desafio-02#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.1",
+    "nodemon": "^1.19.4",
+    "prettier": "^1.18.2",
+    "sequelize-cli": "^5.5.1",
+    "sucrase": "^3.10.1"
+  }
+}
